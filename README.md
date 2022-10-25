@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Frank Wang.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frank-III&theme=apprentice&show_icons=true)
+
+
 
 <!--
 **Frank-III/Frank-III** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
