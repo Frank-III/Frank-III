@@ -1,7 +1,9 @@
 ### Hi there 👋
 I am Frank Wang.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frank-III&theme=apprentice&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frank-III&theme=apprentice&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Frank-III/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Frank-III&repo=NotionSDK.jl)](https://github.com/Frank-III/github-readme-stats)
 
 
 
