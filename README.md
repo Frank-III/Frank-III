@@ -19,6 +19,11 @@
 
 ## Achievements
 
+### 🥇 Best Overall - Uncommon Hacks 2024 (University of Chicago)
+A playable demonstration of the Prisoner's Dilemma and Axelrod's Tournament that abstracts the requirement for players to know how to code and instead empowers players to develop strategies for their agents via natural language.
+
+- **Dev Post**: [DilemmAI](https://devpost.com/software/dilemmai)
+
 ### 🥇 1st Place - Code for Good Hackathon at Google
 Secured first place by offering an innovative solution aimed at enhancing web accessibility for individuals experiencing neuropathic corneal pain. Our project focused on creating a more e-ink-friendly web experience, providing pragmatic solutions to reduce screen-induced eye strain.
 
