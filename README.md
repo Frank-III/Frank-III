@@ -15,8 +15,8 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Frank-III&theme=apprentice&repo=NotionSDK.jl" alt="NotionApi in Julia" /> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Frank-III&theme=apprentice&repo=Micrograds.jl" alt="A Micrograd Machine" /> | 
 | ------------- | ------------- |
--->
 
+<!--
 ## Achievements
 
 ### 🥇 Best Overall - Uncommon Hacks 2024 (University of Chicago)
@@ -48,6 +48,7 @@ A web application that enables users and organizations to efficiently collect, m
 ## More Information
 
 For more details about these projects, their development process, and the technologies used, feel free to visit the respective GitHub repositories or contact me directly.
+
 -->
 
 <!--
