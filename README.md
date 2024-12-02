@@ -12,10 +12,6 @@
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Frank-III&show_icons=true&include_all_commits=true&theme=apprentice&hide_border=true" alt="Frank Wang's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frank-III&layout=compact&theme=apprentice&hide_border=true&hide=javascript,html" /></a> |
 | ------------- | ------------- |
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Frank-III&theme=apprentice&repo=NotionSDK.jl" alt="NotionApi in Julia" /> |<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Frank-III&theme=apprentice&repo=Micrograds.jl" alt="A Micrograd Machine" /> | 
-| ------------- | ------------- |
-
 <!--
 ## Achievements
 
